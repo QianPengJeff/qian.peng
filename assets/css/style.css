@@ -519,6 +519,10 @@ section {
   position: relative;
 }
 
+.resume .without-border {
+  border-left: none;
+}
+
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 18px;
